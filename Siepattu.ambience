@@ -1,0 +1,12 @@
+{
+    "translationCatalog"        : "Siepattu",
+    "displayName"               : "Siepattu",
+    "ringerToneFile"            : { "file": "Siepattu-Ringtone.wav", "enabled": 1 },
+    "wallpaper"                 : "Siepattu.jpg",
+    "highlightColor"            : "#e2a44e",
+    "secondaryHighlightColor"   : "#424242",
+    "primaryColor"              : "#e1e1e1",
+    "secondaryColor"            : "#e1e1e1",
+    "ringerVolume"              : 70,
+    "favorite"			: true
+}
